@@ -1,2 +1,2 @@
 # Capstone-Project
-Capstone Project Course!
+Corusera Capstone Project!
